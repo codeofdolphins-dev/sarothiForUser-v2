@@ -1,4 +1,7 @@
 {
   "name": "sarothiForUser",
-  "displayName": "sarothiForUser"
+  "displayName": "sarothiForUser",
+  "react-native-google-mobile-ads": {
+    "android_app_id": "ca-app-pub-7814820408838796~6057736959"
+  }
 }
